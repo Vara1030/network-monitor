@@ -1,0 +1,7 @@
+flask==2.3.3
+psutil==5.9.6
+ping3==4.0.4
+plotly==5.18.0
+pandas==2.1.4
+flask-socketio==5.3.4
+python-socketio==5.9.0
